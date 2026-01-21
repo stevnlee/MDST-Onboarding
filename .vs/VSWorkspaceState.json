@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\data",
+    "\\public",
+    "\\tutorial0",
+    "\\tutorial1"
   ],
+  "SelectedNode": "\\tutorial1\\checkpoint1.ipynb",
   "PreviewInSolutionExplorer": false
 }
